@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-universal",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Babel preset for universal react app used @larriereguichet",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,6 @@
     "@babel/preset-react": "^7.0.0-beta.32"
   },
   "peerDependencies": {
-    "@babel/core": "7.0.0-beta.x"
+    "@babel/core": "7.0.0-beta.32"
   }
 }
