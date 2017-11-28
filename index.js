@@ -9,7 +9,8 @@ module.exports = function() {
           },
           "debug": false
         }
-      ]
+      ],
+      require("@babel/preset-react")
     ],
     plugins: [
       require("@babel/plugin-proposal-class-properties"),
